@@ -1,10 +1,8 @@
-# HealthBooker🧑‍⚕️
+# MentalEase🧑‍⚕️
 
 <h3>Description :</h3> 
 This is a webapp where you can book an appointment with a doctor.
 
-👉[Click here](https://healthbooker.onrender.com/) to check out the app.
-<br/>
 
 ### 📃Features :
 
