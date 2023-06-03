@@ -1,7 +1,7 @@
 # MentalEase🧑‍⚕️
 
 <h3>Description :</h3> 
-This is a webapp where you can book an appointment with a doctor.
+This is a webapp where you can book an appointment with a doctor. Play Games to Relax and use Chatbot to Rant.
 
 
 ### 📃Features :
@@ -32,7 +32,7 @@ This is a webapp where you can book an appointment with a doctor.
 <ol>
 <li>Download the project from the git repository</li>
 <li>Add .env file in root directory for the backend which contains: MONGO_URI, JWT_SECRET</li>
-<li>Add .env file in client directory for the frontend which contains: REACT_APP_SERVER_DOMAIN (http://123.0.0.1:5000/api), REACT_APP_CLOUDINARY_BASE_URL, REACT_APP_CLOUDINARY_CLOUD_NAME</li>
+<li>Add .env file in client directory for the frontend which contains: REACT_APP_CLOUDINARY_BASE_URL, REACT_APP_CLOUDINARY_CLOUD_NAME</li>
 <li>To run the backend, go to root directory in the terminal and execute: npm start</li>
 <li>To run the frontend, go to client directory in a separate terminal and execute: npm start</li>
 </ol>
@@ -45,55 +45,7 @@ This is a webapp where you can book an appointment with a doctor.
 <li>Register on the website and manually change the "isAdmin" field in the DB to true and then log in on the site</li>
 </ol>
 
-### Home page
 
-<img src="./client/src/images/full_pic.png" alt='home'/>
-
-### Sign up page
-
-<img src="./client/src/images/signup.png" alt='signup'/>
-
-### Sign in page
-
-<img src="./client/src/images/signin.png" alt='signin'/>
-
-### Profile page
-
-<img src="./client/src/images/profile.png" alt='profile'/>
-
-### All Doctors page
-
-<img src="./client/src/images/doctors.png" alt='doctors'/>
-
-### Apply for doctor page
-
-<img src="./client/src/images/docapply.png" alt='applyfordoctor'/>
-
-### Admin all users dashboard
-
-<img src="./client/src/images/users.png" alt='users'/>
-
-### Admin all applications page
-
-<img src="./client/src/images/applications.png" alt='applications'/>
-
-### Book Appointment page
-
-<img src="./client/src/images/bookappointment.png" alt='bookappointment'/>
-
-### Users all appointments page
-
-<img src="./client/src/images/userappointments.png" alt='appointments'/>
-
-### Doctors all appointments page
-
-<img src="./client/src/images/doctorappointments.png" alt='appointments'/>
-
-### Notifications page
-
-<img src="./client/src/images/notifications.png" alt='notifications'/>
-
-<hr/>
 
 ### Tools and technologies used :
 
